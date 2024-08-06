@@ -44,8 +44,7 @@ The model is built using multiple linear regression implemented from scratch. Th
 
 The final model achieved the following impressive results on the test set:
 
-- **Mean Squared Error (MSE): 4.24**
+- **Root Mean Squared Error (MSE): 2.06**
 - **R-squared (R²): 0.98**
-- **Accuracy within a tolerance of 4.5: 96.60%**
 
 These metrics indicate that the model is highly accurate, explaining 98% of the variance in student marks with a relatively small average error.
